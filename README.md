@@ -1,3 +1,5 @@
+![Car Sales DB](https://github.com/user-attachments/assets/4393d20b-5185-4afc-b7a0-a964c86ec4e6)
+
 # KEY INSIGHTS
 
 - Sales Trends Analysis:
